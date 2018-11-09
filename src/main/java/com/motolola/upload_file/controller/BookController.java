@@ -12,7 +12,4 @@ public class BookController {
     public BookController(BookDao bookDao) {
         this.bookDao = bookDao;
     }
-
-
-
 }
